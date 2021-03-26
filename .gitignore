@@ -1,0 +1,12 @@
+*.generated.swift
+**.DS_Store
+/fastlane/README.md
+/fastlane/report.xml
+/Pods
+/IntegrationsTemplate.xcworkspace
+/IntegrationsTemplate.xcodeproj/project.xcworkspace/xcshareddata
+/IntegrationsTemplate.xcodeproj/project.xcworkspace/xcuserdata
+/IntegrationsTemplate.xcodeproj/xcuserdata
+/functions/firebase-debug.log
+/builds
+*.log

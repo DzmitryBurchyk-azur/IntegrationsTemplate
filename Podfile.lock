@@ -1,0 +1,35 @@
+PODS:
+  - Adapty (1.12.3):
+    - CryptoSwift (= 1.3.2)
+  - AppsFlyerFramework (6.2.2):
+    - AppsFlyerFramework/Main (= 6.2.2)
+  - AppsFlyerFramework/Main (6.2.2)
+  - CryptoSwift (1.3.2)
+  - FBSDKCoreKit (9.0.1):
+    - FBSDKCoreKit/Basics (= 9.0.1)
+    - FBSDKCoreKit/Core (= 9.0.1)
+  - FBSDKCoreKit/Basics (9.0.1)
+  - FBSDKCoreKit/Core (9.0.1):
+    - FBSDKCoreKit/Basics
+
+DEPENDENCIES:
+  - Adapty
+  - AppsFlyerFramework
+  - FBSDKCoreKit
+
+SPEC REPOS:
+  trunk:
+    - Adapty
+    - AppsFlyerFramework
+    - CryptoSwift
+    - FBSDKCoreKit
+
+SPEC CHECKSUMS:
+  Adapty: f90547927979f708c3e6cb3c67b9f5705370a541
+  AppsFlyerFramework: a9921d6894f863bdcca436948fd0256e9d93ddf1
+  CryptoSwift: 093499be1a94b0cae36e6c26b70870668cb56060
+  FBSDKCoreKit: fada1a6a0076724678993ff05a633848765ff18c
+
+PODFILE CHECKSUM: 33c29435a787c28e5ca63c3227854754fafeabfe
+
+COCOAPODS: 1.10.1
