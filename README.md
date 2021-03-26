@@ -1,1 +1,3 @@
 # IntegrationsTemplate
+
+Facebook + Appsflyer + Adapty
